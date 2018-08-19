@@ -18,7 +18,7 @@ class PropsValidation extends Component {
 }
 
 PropsValidation.propTypes = {
-    name: PropTypes.string,
+    name: PropTypes.string, 
     age: PropTypes.number,
     height: PropTypes.number,
     func: PropTypes.func,
